@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.26)  21 FEB 2019 04:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.26)  22 FEB 2019 03:12
 entering extended mode
 **./dark.tex
 (dark.tex
@@ -11,7 +11,8 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \begin{tabular}
-                   {|c|c|c|c|c|c|c|c|c|c|}
+                   {|p{0.7cm}|p{2cm}|p{2cm}|p{0.7cm}|p{0.83cm}|p{0.83cm}|c|c...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -28,8 +29,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, М
-             гц& Количество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, М
+                                      гц& Количество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -42,8 +43,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мг
-               ц& Количество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, Мг
+                                        ц& Количество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -56,8 +57,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц
-                 & Количество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, Мгц
+                                          & Количество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -70,8 +71,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& К
-                     оличество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, Мгц& К
+                                              оличество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -84,8 +85,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Ко
-                       личество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, Мгц& Ко
+                                                личество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -98,8 +99,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Кол
-                         ичество делений шкалы окуля...
+l.3  \hspace{5pt}$\nu$\hspace{2pt}, Мгц& Кол
+                                                  ичество делен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -112,8 +113,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Коли
-                           чество делений шкалы окуля...
+l.3 ...ace{5pt}$\nu$\hspace{2pt}, Мгц& Коли
+                                                  чество делени�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -126,8 +127,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Колич
-                             ество делений шкалы окуля...
+l.3 ...e{5pt}$\nu$\hspace{2pt}, Мгц& Колич
+                                                  ество делений ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -140,8 +141,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количе
-                               ство делений шкалы окуля...
+l.3 ...5pt}$\nu$\hspace{2pt}, Мгц& Количе
+                                                  ство делений ш...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -154,8 +155,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количес
-                                 тво делений шкалы окуля...
+l.3 ...t}$\nu$\hspace{2pt}, Мгц& Количес
+                                                  тво делений шк...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -168,8 +169,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количест
-                                   во делений шкалы окуля...
+l.3 ...$\nu$\hspace{2pt}, Мгц& Количест
+                                                  во делений шка...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -182,8 +183,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количеств
-                                     о делений шкалы окуля...
+l.3 ...nu$\hspace{2pt}, Мгц& Количеств
+                                                  о делений шкал...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -196,8 +197,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество
-                                        делений шкалы окуля...
+l.3 ...$\hspace{2pt}, Мгц& Количество
+                                                   делений шкалы...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -210,8 +211,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество д
-                                          елений шкалы окуля...
+l.3 ...space{2pt}, Мгц& Количество д
+                                                  елений шкалы о...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -224,8 +225,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество де
-                                            лений шкалы окуля...
+l.3 ...ace{2pt}, Мгц& Количество де
+                                                  лений шкалы ок...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -238,8 +239,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество дел
-                                              ений шкалы окуля...
+l.3 ...e{2pt}, Мгц& Количество дел
+                                                  ений шкалы оку...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -252,8 +253,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество деле
-                                                ний шкалы окуля...
+l.3 ...2pt}, Мгц& Количество деле
+                                                  ний шкалы окул...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -266,7 +267,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 $\nu$, Мгц& Количество делен
+l.3 ...t}, Мгц& Количество делен
                                                   ий шкалы окуля...
 
 You may provide a definition with
@@ -603,7 +604,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�ы окуляра $N$&Количество
-                                                   темных полос  ...
+                                                   темных полос �...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -617,7 +618,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ... окуляра $N$&Количество т
-                                                  емных полос  а�...
+                                                  емных полос ак...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -631,7 +632,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�куляра $N$&Количество те
-                                                  мных полос  ак�...
+                                                  мных полос аку...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -645,7 +646,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�уляра $N$&Количество тем
-                                                  ных полос  аку�...
+                                                  ных полос акус...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -659,7 +660,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�ляра $N$&Количество темн
-                                                  ых полос  акус�...
+                                                  ых полос акуст...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -673,7 +674,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�яра $N$&Количество темны
-                                                  х полос  акуст�...
+                                                  х полос акусти...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -687,7 +688,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�ра $N$&Количество темных
-                                                   полос  акусти�...
+                                                   полос акустич...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -701,7 +702,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...а $N$&Количество темных п
-                                                  олос  акустиче...
+                                                  олос акустиче�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -715,7 +716,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ... $N$&Количество темных по
-                                                  лос  акустичес...
+                                                  лос акустичес�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -729,7 +730,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...N$&Количество темных пол
-                                                  ос  акустическ...
+                                                  ос акустическ�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -743,7 +744,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...&Количество темных поло
-                                                  с  акустическо...
+                                                  с акустическо�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -757,7 +758,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 ...�оличество темных полос
-                                                    акустической...
+                                                   акустической ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -770,7 +771,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�ичество темных полос  а
+l.3 ...личество темных полос а
                                                   кустической р�...
 
 You may provide a definition with
@@ -784,7 +785,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�чество темных полос  ак
+l.3 ...ичество темных полос ак
                                                   устической ре�...
 
 You may provide a definition with
@@ -798,7 +799,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�ество темных полос  аку
+l.3 ...чество темных полос аку
                                                   стической реш�...
 
 You may provide a definition with
@@ -812,7 +813,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�ство темных полос  акус
+l.3 ...ество темных полос акус
                                                   тической реше�...
 
 You may provide a definition with
@@ -826,7 +827,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�тво темных полос  акуст
+l.3 ...ство темных полос акуст
                                                   ической решет�...
 
 You may provide a definition with
@@ -840,7 +841,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�во темных полос  акусти
+l.3 ...тво темных полос акусти
                                                   ческой решетк�...
 
 You may provide a definition with
@@ -854,7 +855,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�о темных полос  акустич
+l.3 ...во темных полос акустич
                                                   еской решетки ...
 
 You may provide a definition with
@@ -868,7 +869,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...� темных полос  акустиче
+l.3 ...о темных полос акустиче
                                                   ской решетки $n...
 
 You may provide a definition with
@@ -882,7 +883,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...темных полос  акустичес
+l.3 ... темных полос акустичес
                                                   кой решетки $n$&...
 
 You may provide a definition with
@@ -896,8 +897,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...емных полос  акустическ
-                                                  ой решетки $n$&$\...
+l.3 ...�емных полос акустическ
+                                                  ой решетки $n$&\v...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -910,8 +911,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...мных полос  акустическо
-                                                  й решетки $n$&$\La...
+l.3 ...�мных полос акустическо
+                                                  й решетки $n$&\vsp...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -924,8 +925,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...ных полос  акустической
-                                                   решетки $n$&$\Lamb...
+l.3 ...�ных полос акустической
+                                                   решетки $n$&\vspac...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -938,8 +939,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�х полос  акустической р
-                                                  ешетки $n$&$\Lambda$...
+l.3 ...ых полос акустической р
+                                                  ешетки $n$&\vspace{0...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -952,8 +953,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...� полос  акустической ре
-                                                  шетки $n$&$\Lambda$, ...
+l.3 ...х полос акустической ре
+                                                  шетки $n$&\vspace{0.5...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -966,8 +967,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...полос  акустической реш
-                                                  етки $n$&$\Lambda$, м...
+l.3 ... полос акустической реш
+                                                  етки $n$&\vspace{0.5cm...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -980,8 +981,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...олос  акустической реше
-                                                  тки $n$&$\Lambda$, мм...
+l.3 ...�олос акустической реше
+                                                  тки $n$&\vspace{0.5cm} ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -994,8 +995,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...лос  акустической решет
-                                                  ки $n$&$\Lambda$, мм&$...
+l.3 ...�лос акустической решет
+                                                  ки $n$&\vspace{0.5cm} \h...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1008,8 +1009,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...ос  акустической решетк
-                                                  и $n$&$\Lambda$, мм&$v$...
+l.3 ...�ос акустической решетк
+                                                  и $n$&\vspace{0.5cm} \hsp...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1022,8 +1023,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...с  акустической решетки
-                                                   $n$&$\Lambda$, мм&$v$, ...
+l.3 ...�с акустической решетки
+                                                   $n$&\vspace{0.5cm} \hspac...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1037,8 +1038,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...еской решетки $n$&$\Lambda$, м
-                                                  м&$v$, $10$ м/с&$\Delta...
+l.3 ...$n$&\vspace{0.5cm} \hspace{6pt}$\Lambda$,м
+                                                  м&\vspace{0.45cm} \hspace...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1051,8 +1052,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...ской решетки $n$&$\Lambda$, мм
-                                                  &$v$, $10$ м/с&$\Delta v...
+l.3 ...$&\vspace{0.5cm} \hspace{6pt}$\Lambda$,мм
+                                                  &\vspace{0.45cm} \hspace{1...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1066,8 +1067,9 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...шетки $n$&$\Lambda$, мм&$v$, $10$ м
-                                                  /с&$\Delta v$, $10$ м/с
+l.3 ...�&\vspace{0.45cm} \hspace{10pt}$v$, $10$~м
+                                                  /с&\vspace{0.41cm} $\Delt...
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1080,10 +1082,16 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...�тки $n$&$\Lambda$, мм&$v$, $10$ м/с
-                                                  &$\Delta v$, $10$ м/с
+l.3 ...vspace{0.45cm} \hspace{10pt}$v$, $10$~м/с
+                                                  &\vspace{0.41cm} $\Delta v...
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
+
+
+Overfull \hbox (1.59021pt too wide) in paragraph at lines 3--3
+[] $\OML/cmm/m/it/10 v$ $\OT1/cmr/m/n/10 10$| 
+ []
 
 Missing character: There is no , in font nullfont!
 
@@ -1094,8 +1102,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...$, мм&$v$, $10$ м/с&$\Delta v$, $10$ м
-                                                  /с
+l.3 ...$~м/с&\vspace{0.41cm} $\Delta v$, $10$~м
+                                                  /с\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1108,53 +1116,10 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...мм&$v$, $10$ м/с&$\Delta v$, $10$ м/с
-                                                  
+l.3 ...�/с&\vspace{0.41cm} $\Delta v$, $10$~м/с
+                                                  \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.4 \hline
-          
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.4 \hline
-          
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.4 \hline
-          
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.4 \hline
-          
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
 
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -1173,15 +1138,6 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 7 in font nullfont!
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.5 1,220&150&15&1,29&157&
-                          7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -1229,9 +1185,9 @@ Missing character: There is no 8 in font nullfont!
 Here is how much of TeX's memory you used:
  34 strings out of 492946
  337 string characters out of 3127154
- 57739 words of memory out of 3000000
+ 59874 words of memory out of 3000000
  4031 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 19i,7n,12p,244b,108s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 19i,9n,12p,341b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

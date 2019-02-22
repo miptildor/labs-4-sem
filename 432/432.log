@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.26)  22 FEB 2019 02:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.26)  22 FEB 2019 03:30
 entering extended mode
 **./432.tex
 (432.tex
@@ -457,35 +457,47 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))) (432.aux)
+)))
+("C:\Users\1st\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty
+"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\1st\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.st
+y"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (432.aux)
 \openout1 = `432.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/bx/n' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 139.
+(Font)              using `T2A/ptm/m/n' instead on input line 140.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 139.
+(Font)              using `T2A/ptm/m/n' instead on input line 140.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/bx/it' undefined
-(Font)              using `T2A/ptm/bx/n' instead on input line 139.
+(Font)              using `T2A/ptm/bx/n' instead on input line 140.
 
 ("C:\Users\1st\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mkii
 "
@@ -548,29 +560,39 @@ G,.JBIG2,.JB2,.eps]
 )
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/sc' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 157.
+(Font)              using `T2A/ptm/m/n' instead on input line 158.
 
-** ATTENTION: \PARstart is deprecated (line 159). Use \IEEEPARstart instead.
-** WARNING: IEEEPARstart drop letter has zero height! (line 159)
- Forcing the drop letter font size to 10pt.
 ** ATTENTION: \PARstart is deprecated (line 160). Use \IEEEPARstart instead.
 ** WARNING: IEEEPARstart drop letter has zero height! (line 160)
  Forcing the drop letter font size to 10pt.
+** ATTENTION: \PARstart is deprecated (line 161). Use \IEEEPARstart instead.
+** WARNING: IEEEPARstart drop letter has zero height! (line 161)
+ Forcing the drop letter font size to 10pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 169.
+("C:\Users\1st\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 169.
+
+("C:\Users\1st\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 <difraction.png, id=1, 343.93555pt x 252.07428pt>
 File: difraction.png Graphic file (type png)
 <use difraction.png>
-Package pdftex.def Info: difraction.png  used on input line 191.
+Package pdftex.def Info: difraction.png  used on input line 192.
 (pdftex.def)             Requested size: 154.80157pt x 113.45929pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <shema1.png, id=2, 606.89386pt x 216.37463pt>
 File: shema1.png Graphic file (type png)
 <use shema1.png>
-Package pdftex.def Info: shema1.png  used on input line 215.
+Package pdftex.def Info: shema1.png  used on input line 216.
 (pdftex.def)             Requested size: 273.47937pt x 97.50304pt.
 
-Overfull \hbox (21.47937pt too wide) in paragraph at lines 215--216
+Overfull \hbox (21.47937pt too wide) in paragraph at lines 216--217
  [][] 
  []
 
@@ -581,39 +603,39 @@ Overfull \hbox (21.47937pt too wide) in paragraph at lines 215--216
 <1.png, id=19, 633.36626pt x 483.8075pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 235.
+Package pdftex.def Info: 1.png  used on input line 236.
 (pdftex.def)             Requested size: 257.04108pt x 196.34698pt.
 
-Overfull \hbox (5.04108pt too wide) in paragraph at lines 235--236
+Overfull \hbox (5.04108pt too wide) in paragraph at lines 236--237
  [][] 
  []
 
 
-Overfull \hbox (2.20778pt too wide) in paragraph at lines 246--246
+Overfull \hbox (2.20778pt too wide) in paragraph at lines 247--247
 []$\OML/cmm/m/it/8 x[]$\T2A/ptm/m/sc/8 ,
  []
 
 
-Overfull \hbox (1.219pt too wide) in paragraph at lines 246--246
+Overfull \hbox (1.219pt too wide) in paragraph at lines 247--247
 \T2A/ptm/m/sc/8 дел| 
  []
 
 
-Overfull \hbox (2.20778pt too wide) in paragraph at lines 248--248
+Overfull \hbox (2.20778pt too wide) in paragraph at lines 249--249
 []$\OML/cmm/m/it/8 x[]$\T2A/ptm/m/sc/8 ,
  []
 
 
-Overfull \hbox (4.05164pt too wide) in paragraph at lines 248--248
+Overfull \hbox (4.05164pt too wide) in paragraph at lines 249--249
 \T2A/ptm/m/sc/8 мкм| 
  []
 
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 259.
+Package pdftex.def Info: 1.png  used on input line 260.
 (pdftex.def)             Requested size: 257.04108pt x 196.34698pt.
 
-Overfull \hbox (5.04108pt too wide) in paragraph at lines 259--260
+Overfull \hbox (5.04108pt too wide) in paragraph at lines 260--261
  [][] 
  []
 
@@ -626,10 +648,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 273.
+Package pdftex.def Info: 1.png  used on input line 274.
 (pdftex.def)             Requested size: 257.04108pt x 196.34698pt.
 
-Overfull \hbox (5.04108pt too wide) in paragraph at lines 273--274
+Overfull \hbox (5.04108pt too wide) in paragraph at lines 274--275
  [][] 
  []
 
@@ -639,18 +661,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (nu1331.tex)
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 289.
+Package pdftex.def Info: 1.png  used on input line 290.
 (pdftex.def)             Requested size: 257.04108pt x 196.34698pt.
 
-Overfull \hbox (5.04108pt too wide) in paragraph at lines 289--290
+Overfull \hbox (5.04108pt too wide) in paragraph at lines 290--291
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(speed.tex)
-Overfull \hbox (30.71114pt too wide) in paragraph at lines 1--297
+
+Overfull \hbox (30.71114pt too wide) in paragraph at lines 297--310
  [][] 
  []
 
@@ -661,65 +683,65 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <shema2.png, id=28, 599.92807pt x 191.9944pt>
 File: shema2.png Graphic file (type png)
 <use shema2.png>
-Package pdftex.def Info: shema2.png  used on input line 308.
+Package pdftex.def Info: shema2.png  used on input line 321.
 (pdftex.def)             Requested size: 258.0pt x 82.56769pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 308--309
+Overfull \hbox (6.0pt too wide) in paragraph at lines 321--322
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 [] $\OML/cmm/m/it/8 $ \T2A/ptm/m/sc/8 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []\T2A/ptm/m/sc/8 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \T2A/ptm/m/sc/8 де-ле-ний
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \T2A/ptm/m/sc/8 шка-лы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []\T2A/ptm/m/sc/8 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \T2A/ptm/m/sc/8 аку-сти-че-ской
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 [] $\OML/cmm/m/it/8 v$\T2A/ptm/m/sc/8 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 [] $\OT1/cmr/m/n/8 \OML/cmm/m/it/8 v$\T2A/ptm/m/sc/8 ,
  []
 
 
-Overfull \hbox (20.87634pt too wide) in paragraph at lines 339--350
+Overfull \hbox (20.87634pt too wide) in paragraph at lines 352--363
  [][] 
  []
 
@@ -729,13 +751,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4452 strings out of 492946
- 63208 string characters out of 3127154
- 150565 words of memory out of 3000000
- 8258 multiletter control sequences out of 15000+200000
- 37388 words of font info for 77 fonts, out of 3000000 for 9000
+ 4738 strings out of 492946
+ 66475 string characters out of 3127154
+ 151077 words of memory out of 3000000
+ 8528 multiletter control sequences out of 15000+200000
+ 39460 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,25p,1260b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,27p,1260b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\1st\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 0800.pk> <C:\Users\1st\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\larm1000.pk> <C:\Users\1st\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a
@@ -753,10 +775,11 @@ ts/cm/cmr10.pfb><C:/Users/1st/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr7.pfb><C:/Users/1st/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmr8.pfb><C:/Users/1st/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/1st/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on 432.pdf (3 pages, 325146 bytes).
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/1st/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on 432.pdf (3 pages, 334964 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
